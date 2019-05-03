@@ -1,0 +1,22 @@
+{
+  "name": "snake-vs-block",
+  "version": "1.0.0",
+  "description": "",
+  "main": "game.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^5.1.0",
+    "randomcolor": "^0.5.3",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
+  },
+  "now": {
+    "alias": "snake-vs-block.now.sh"
+  }
+}
